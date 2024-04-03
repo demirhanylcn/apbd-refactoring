@@ -4,16 +4,16 @@ namespace LegacyApp
 {
     public class ValidateUser : IValidateUser
     {
-        public bool ValidateUserStatus(string firstName, string lastName, string email, DateTime dateOfBirth)
+        public bool ValidateUserStatus(User user)
         {
-            if (!email.Contains("@") || !email.Contains("."))
+            if (!user.EmailAddress.Contains("@") || !user.EmailAddress.Contains("."))
                 return false;
 
-            if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName))
+            if (string.IsNullOrEmpty(user.FirstName) || string.IsNullOrEmpty(user.LastName))
                 return false;
 
-            int age = DateTime.Now.Year - dateOfBirth.Year;
-            if (DateTime.Now.Month < dateOfBirth.Month || (DateTime.Now.Month == dateOfBirth.Month && DateTime.Now.Day < dateOfBirth.Day))
+            int age = DateTime.Now.Year - user.DateOfBirth.Year;
+            if (DateTime.Now.Month < user.DateOfBirth.Month || (DateTime.Now.Month == user.DateOfBirth.Month && DateTime.Now.Day < user.DateOfBirth.Day))
                 age--;
 
             if (age < 21)

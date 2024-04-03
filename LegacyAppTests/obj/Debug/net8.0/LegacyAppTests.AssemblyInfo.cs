@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LegacyAppTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49e0d0b016089bc01368513727daa991864639a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LegacyAppTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LegacyAppTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
