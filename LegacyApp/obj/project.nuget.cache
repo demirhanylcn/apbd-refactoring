@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cvaJjkzEXHmK7ZPZqEL/bsdLffaulJrdwjdq218yDszBKYDDF7zUI25///4oSC/Ig1qEWwQ+tOO0dK6o/4Q8lw==",
+  "dgSpecHash": "+xIO+2mvg/3IG571z3PF7DJGWs99JLOSDIg74BmOnWa7ADW8xOcTvAPihRD5BTr6Z8dpgXd0YV0zm7vbvo7Pcw==",
   "success": true,
-  "projectFilePath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj",
+  "projectFilePath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj",
   "expectedPackageFiles": [
-    "/Users/demjrhan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/demjrhan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\demir\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\demir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

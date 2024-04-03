@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/demjrhan/.nuget/packages/": {}
+    "C:\\Users\\demir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj",
+      "projectUniqueName": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj",
       "projectName": "LegacyApp",
-      "projectPath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj",
-      "packagesPath": "/Users/demjrhan/.nuget/packages/",
-      "outputPath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/obj/",
+      "projectPath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj",
+      "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/demjrhan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -62,6 +62,10 @@
           {
             "name": "Microsoft.NETCore.App.Ref",
             "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
           }
         ],
         "frameworkReferences": {
@@ -69,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/demjrhan/.dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\demir\\.dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

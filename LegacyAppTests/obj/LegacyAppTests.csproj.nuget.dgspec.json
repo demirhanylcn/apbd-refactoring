@@ -1,83 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/demjrhan/Documents/apbd-refactoring/LegacyAppTests/LegacyAppTests.csproj": {}
+    "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyAppTests\\LegacyAppTests.csproj": {}
   },
   "projects": {
-    "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj": {
+    "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyAppTests\\LegacyAppTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj",
-        "projectName": "LegacyApp",
-        "projectPath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj",
-        "packagesPath": "/Users/demjrhan/.nuget/packages/",
-        "outputPath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/demjrhan/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/Users/demjrhan/.dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/demjrhan/Documents/apbd-refactoring/LegacyAppTests/LegacyAppTests.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/demjrhan/Documents/apbd-refactoring/LegacyAppTests/LegacyAppTests.csproj",
+        "projectUniqueName": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyAppTests\\LegacyAppTests.csproj",
         "projectName": "LegacyAppTests",
-        "projectPath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyAppTests/LegacyAppTests.csproj",
-        "packagesPath": "/Users/demjrhan/.nuget/packages/",
-        "outputPath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyAppTests/obj/",
+        "projectPath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyAppTests\\LegacyAppTests.csproj",
+        "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyAppTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/demjrhan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -89,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj": {
-                "projectPath": "/Users/demjrhan/Documents/apbd-refactoring/LegacyApp/LegacyApp.csproj"
+              "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj": {
+                "projectPath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj"
               }
             }
           }
@@ -142,7 +79,74 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/demjrhan/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\demir\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj",
+        "projectName": "LegacyApp",
+        "projectPath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\LegacyApp.csproj",
+        "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\demir\\Documents\\git\\apbd-refactoring\\LegacyApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\demir\\.dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
